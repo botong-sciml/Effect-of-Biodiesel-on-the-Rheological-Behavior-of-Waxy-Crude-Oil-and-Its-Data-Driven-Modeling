@@ -17,19 +17,19 @@ Rheological Property Analysis: Identify low apparent viscosity regions of biodie
 # Results & Visualizations
 The main results demonstrate the capability of the shear-stress-biased autoencoder to explore the coupled rheological parameter space and characterize the effects of biodiesel addition.
 
-Autoencoder Architecture and Reconstruction Performance:
+
 
 <img width="1131" height="610" alt="image" src="https://github.com/user-attachments/assets/f6f94b87-9977-4c13-870f-e3c24d3f70a7" />
 
-Shear-Stress-Constrained Rheological Parameter Landscape:
+
 
 <img width="1135" height="595" alt="image" src="https://github.com/user-attachments/assets/82f08fde-5dbf-4ea4-aee2-65f3ed8a8061" />
 
-Apparent Viscosity:
+
 
 <img width="1145" height="640" alt="image" src="https://github.com/user-attachments/assets/d7fa400b-16d9-42c4-92d0-9e9d89f8a281" />
 
-Shear-Thinning Behavior and Low-Temperature Yield-Stress Behavior:
+
 
 <img width="1137" height="591" alt="image" src="https://github.com/user-attachments/assets/fc3d2108-a911-4e3c-b288-65edb0aa921d" />
 
