@@ -1,5 +1,6 @@
 # Effect-of-Biodiesel-on-the-Rheological-Behavior-of-Waxy-Crude-Oil-and-Its-Data-Driven-Modeling
 Shear-Stress-Biased Autoencoder for Biodiesel-Treated Waxy Crude Oil Rheology
+
 This repository presents a data-driven framework for investigating the rheological behavior of sunflower-biodiesel-treated waxy crude oil using a shear-stress-biased autoencoder.
 # Project Overview
 This project investigates the effects of temperature, biodiesel concentration, and shear rate on the rheological behavior of Nigerian waxy crude oil. A shear-stress-biased autoencoder is developed to capture the nonlinear and non-injective relationships among operating parameters and shear stress.
@@ -31,6 +32,7 @@ Apparent Viscosity:
 Shear-Thinning Behavior and Low-Temperature Yield-Stress Behavior:
 
 <img width="1137" height="591" alt="image" src="https://github.com/user-attachments/assets/fc3d2108-a911-4e3c-b288-65edb0aa921d" />
+
 # Reference
 If you find this project useful, please refer to the associated paper:
 
